@@ -114,6 +114,10 @@
 					<a href="http://savedin1080p.com/mybb" target="_blank">Forums</a>
 					</div>
 
+					<div class="col-md-3">
+					<a href="http://savedin1080p.com/giveaway.php" target="_blank">Giveaway</a>
+					</div>
+
 				</ul>
 			</nav>
 		</div>	

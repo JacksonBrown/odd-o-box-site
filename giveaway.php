@@ -46,7 +46,14 @@
 		}
 
 		.container-two {
+			margin-bottom: 5%;
 			font-family: 'Roboto Slab', serif;
+		}
+
+		#wss{
+			opacity: 0;
+			-webkit-transition: opacity 1.0s linear 0s;
+			transition: opacity 1.0s linear 0s;
 		}
 
 		@-webkit-keyframes glow-anim {
@@ -130,6 +137,11 @@
 			left: 0;
 		}
 
+		.contestant{
+			font-family: 'Montserrat', sans-serif;
+			padding: 20px;
+			font-size: 25px;
+		}
 
 		::webkit-scrollbar{
 			display: none;
@@ -155,7 +167,7 @@
 		});
 
 		var wss_i = 0;
-		var wss_array = ["\"You Smart\"","\"You Loyal\"" ,"\"We Da Best\"","\"Anotha One\""];
+		var wss_array = ["\"Username1\"","\"Username2\"" ,"\"Username3\"","\"Username4\""];
 		var wss_elem;
 		function wssNext(){
 			wss_i++;
@@ -194,21 +206,53 @@
 	<div class="upper-bg home home-fullscreen partic" id="partic" style="background: #000;">
 		<div class="container">
 			<div class="header-info" style="">
-				<h1 class="header-info" style="margin-top: 10%; color: #fff;">List of people here.</h1>
-				<a data-scroll class="btn btn-two" href="#winner" >Show The Winner</a>
+				<h1 class="header-info" style="margin-top: 10%; color: #fff;"><span id="wss"></span></h1>
+				<script>wss_elem = document.getElementById("wss"); wssSlide();</script>
 			</div>
+
+
+			<div class="container-two">
+				<div class="col-md-12">
+
+					<div class="col-md-2">
+						<p class="contestant">test</p>
+					</div>
+
+					<div class="col-md-2">
+						<p class="contestant">test</p>
+					</div>
+
+					<div class="col-md-2">
+						<p class="contestant">test</p>
+					</div>
+
+					<div class="col-md-2">
+						<p class="contestant">test</p>
+					</div>
+
+					<div class="col-md-2">
+						<p class="contestant">test</p>
+					</div>
+
+					<div class="col-md-2">
+						<p class="contestant">test</p>
+					</div>
+				</div>
+			</div>
+			
+
+			<a data-scroll class="btn btn-two" href="#winner" >Show The Winner</a>
+
+
 		</div>
 
-		<div class="container-two">
-			
-		</div>
 	</div>
 
 	<!-- BEGIN UPPER BG -->
 	<div class="upper-bg home home-fullscreen winner" id="winner" style="background: #fff;">
 		<div class="container">
 			<div class="header-info" style="">
-				<h1 class="header-info" style="margin-top: 10%; color: #000;">USERNAME!</h1>
+				<h1 class="header-info" style="margin-top: 10%; color: #000;">ALLAHU AKBARRRR!</h1>
 			</div>
 		</div>
 	</div>
