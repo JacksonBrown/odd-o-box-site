@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<title>SavedIn1080p giveaways</title>
+		<script src="terminal.js"></script>
+	</head>
+	<body style="margin: 0; padding: 0; height: 100%; background: #000; color: blue;">
+
+		<script style="width: 100%; height: 100%;">
+			var t1 = new Terminal()
+			var oneuser = "savedin1080p"
+			t1.setHeight("700px")
+			t1.setWidth('100%')
+			document.body.appendChild(t1.html)
+
+			// USER CREATED
+			function termInput(){
+				t1.input('', function (cond) {
+
+					if (cond == 'help'){
+						t1.print("AVAILABLE COMMANDS: 'help', 'tell_winner', 'exit'.")
+						termInput()
+					}
+
+					else if (cond == 'tell_winner'){
+						t1.print("THE WINNER IS: 'winner_name from Youtube/Facebook'")
+						termInput()
+					}
+
+					else if (cond == 'clear'){
+						t1.clear()
+					}
+
+					else if (cond == 'exit'){
+						t1.print('Bye fagget.')
+					}
+
+					else {
+						t1.print("Invalid Command.")
+						termInput()
+					}
+
+				})
+			}
+
+
+			// USER CREATED
+			function termTruncate(){
+				t1.print('')
+			}
+
+			function initLogin(){
+				t1.print('Hello, user.')
+				t1.input('Login as who?', function (input) {
+					if (input == oneuser){
+						t1.print('logged in as ' + oneuser + "\n\n")
+						termInput()
+					}
+					else{
+						t1.print('invalid user.')
+					}
+				})
+			}
+
+			initLogin()
+
+		</script>
+
+	</body>
+</html>
