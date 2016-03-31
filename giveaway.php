@@ -140,7 +140,9 @@
 		.contestant{
 			font-family: 'Montserrat', sans-serif;
 			padding: 20px;
-			font-size: 25px;
+			font-size: 15px;
+			-webkit-transition: opacity 1.0s linear 0s;
+			transition: opacity 1.0s linear 0s;
 		}
 
 		::webkit-scrollbar{
@@ -183,6 +185,86 @@
 			wss_elem.style.opacity = 1;
 			setTimeout('wssNext()', 4000);
 		}
+
+		function fadeOut(){
+			document.getElementById("con").style.opacity = 0;
+			setTimeout('fadeOut2()', 2000);
+		}
+
+		function fadeOut2(){
+			document.getElementById("con2").style.opacity = 0;
+			var del = document.getElementById("cond");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut3()', 2000);
+		}
+
+		function fadeOut3(){
+			document.getElementById("con3").style.opacity = 0;
+			var del = document.getElementById("cond2");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut4()', 2000);
+		}
+
+		function fadeOut4(){
+			document.getElementById("con4").style.opacity = 0;
+			var del = document.getElementById("cond3");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut5()', 2000);
+		}
+
+		function fadeOut5(){
+			document.getElementById("con5").style.opacity = 0;
+			var del = document.getElementById("cond4");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut6()', 2000);
+		}
+		function fadeOut6(){
+			document.getElementById("con6").style.opacity = 0;
+			var del = document.getElementById("cond5");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut7()', 2000);
+		}
+
+		function fadeOut7(){
+			if (document.getElementById("frow") === ""){
+				frow_elem = document.getElementById("frow");
+				del.parentNode.removeChild(frow_elem);
+			}
+			var del = document.getElementById("cond6");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut8()', 2000);
+		}
+		function fadeOut8(){
+			document.getElementById("con8").style.opacity = 0;
+			var del = document.getElementById("cond7");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut9()', 2000);
+		}
+		function fadeOut9(){
+			document.getElementById("con9").style.opacity = 0;
+			var del = document.getElementById("cond8");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut10()', 2000);
+		}
+		function fadeOut10(){
+			document.getElementById("con10").style.opacity = 0;
+			var del = document.getElementById("cond9");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut11()', 2000);
+		}
+		function fadeOut11(){
+			document.getElementById("con11").style.opacity = 0;
+			var del = document.getElementById("cond10");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut12()', 2000);
+		}
+		function fadeOut12(){
+			document.getElementById("con12").style.opacity = 0;
+			var del = document.getElementById("cond11");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut7()', 2000);
+		}
+
 	</script>
 
 </head>
@@ -206,57 +288,115 @@
 	<div class="upper-bg home home-fullscreen partic" id="partic" style="background: #000;">
 		<div class="container">
 			<div class="header-info" style="">
-				<h1 class="header-info" style="margin-top: 10%; color: #fff;"><span id="wss"></span></h1>
+				<h1 class="header-info" style="margin-top: 10%; color: #fff;">The Winner Is</h1>
 				<script>wss_elem = document.getElementById("wss"); wssSlide();</script>
 			</div>
 
+			<button class="btn btn-two" onclick="fadeOut()">Show The Winner</button>
 
+			<br />
+			<br />
+			<br />
+
+			<!-- FIRST ROW -->
 			<div class="container-two">
-				<div class="col-md-12">
+				<div class="col-md-12" id="frow">
 
-					<div class="col-md-2">
-						<p class="contestant">test</p>
+					<div class="col-md-2" id="cond">
+						<p id="con" class="contestant">AllahuAkbar</p>
 					</div>
 
-					<div class="col-md-2">
-						<p class="contestant">test</p>
+					<div class="col-md-2" id="cond6">
+						<p id="con6" class="contestant">Destructo22</p>
 					</div>
 
-					<div class="col-md-2">
-						<p class="contestant">test</p>
+					<div class="col-md-2" id="cond4">
+						<p id="con4" class="contestant">pleasekillme1217</p>
 					</div>
 
-					<div class="col-md-2">
-						<p class="contestant">test</p>
+					<div class="col-md-2" id="cond5">
+						<p id="con5" class="contestant">ayylmao696969</p>
 					</div>
 
-					<div class="col-md-2">
-						<p class="contestant">test</p>
+					<div class="col-md-2" id="cond2">
+						<p id="con2" class="contestant">baruckobumu420</p>
 					</div>
 
-					<div class="col-md-2">
-						<p class="contestant">test</p>
+					<div class="col-md-2" id="cond3">
+						<p id="con3" class="contestant">xx_snipehawkz_xx</p>
 					</div>
+
 				</div>
 			</div>
 			
+			<!-- SECOND ROW -->
+			<div class="container-two">
+				<div class="col-md-12" id="srow">
 
-			<a data-scroll class="btn btn-two" href="#winner" >Show The Winner</a>
+					<div class="col-md-2" id="cond7">
+						<p id="con7" class="contestant">AllahuAkbar</p>
+					</div>
 
+					<div class="col-md-2" id="cond9">
+						<p id="con9" class="contestant">Destructo22</p>
+					</div>
 
-		</div>
+					<div class="col-md-2" id="cond8">
+						<p id="con8" class="contestant">pleasekillme1217</p>
+					</div>
 
-	</div>
+					<div class="col-md-2" id="cond10">
+						<p id="con10" class="contestant">ayylmao696969</p>
+					</div>
 
-	<!-- BEGIN UPPER BG -->
-	<div class="upper-bg home home-fullscreen winner" id="winner" style="background: #fff;">
-		<div class="container">
-			<div class="header-info" style="">
-				<h1 class="header-info" style="margin-top: 10%; color: #000;">ALLAHU AKBARRRR!</h1>
+					<div class="col-md-2" id="cond12">
+						<p id="con12" class="contestant">baruckobumu420</p>
+					</div>
+
+					<div class="col-md-2" id="cond11">
+						<p id="con11" class="contestant">xx_snipehawkz_xx</p>
+					</div>
+
+				</div>
 			</div>
-		</div>
-	</div>
 
+			<!-- THIRD ROW -->
+			<div class="container-two">
+				<div class="col-md-12" id="throw">
+
+					<div class="col-md-2" id="cond7">
+						<p id="con7" class="contestant">AllahuAkbar</p>
+					</div>
+
+					<div class="col-md-2" id="cond9">
+						<p id="con9" class="contestant">Destructo22</p>
+					</div>
+
+					<div class="col-md-2" id="cond8">
+						<p id="con8" class="contestant">pleasekillme1217</p>
+					</div>
+
+					<div class="col-md-2" id="cond10">
+						<p id="con10" class="contestant">ayylmao696969</p>
+					</div>
+
+					<div class="col-md-2" id="cond12">
+						<p id="con12" class="contestant">baruckobumu420</p>
+					</div>
+
+					<div class="col-md-2" id="cond11">
+						<p id="con11" class="contestant">xx_snipehawkz_xx</p>
+					</div>
+
+				</div>
+			</div>
+
+
+
+
+		</div>
+
+	</div>
 
 	<!-- Load Booststrap -->
 	<script type="text/javascript" src="js/bootstrap.js"></script>
