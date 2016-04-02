@@ -186,86 +186,10 @@
 			setTimeout('wssNext()', 4000);
 		}
 
-		function fadeOut(){
-			document.getElementById("con").style.opacity = 0;
-			setTimeout('fadeOut2()', 2000);
-		}
-
-		function fadeOut2(){
-			document.getElementById("con2").style.opacity = 0;
-			var del = document.getElementById("cond");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut3()', 2000);
-		}
-
-		function fadeOut3(){
-			document.getElementById("con3").style.opacity = 0;
-			var del = document.getElementById("cond2");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut4()', 2000);
-		}
-
-		function fadeOut4(){
-			document.getElementById("con4").style.opacity = 0;
-			var del = document.getElementById("cond3");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut5()', 2000);
-		}
-
-		function fadeOut5(){
-			document.getElementById("con5").style.opacity = 0;
-			var del = document.getElementById("cond4");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut6()', 2000);
-		}
-		function fadeOut6(){
-			document.getElementById("con6").style.opacity = 0;
-			var del = document.getElementById("cond5");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut7()', 2000);
-		}
-
-		function fadeOut7(){
-			if (document.getElementById("frow") === ""){
-				frow_elem = document.getElementById("frow");
-				del.parentNode.removeChild(frow_elem);
-			}
-			var del = document.getElementById("cond6");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut8()', 2000);
-		}
-		function fadeOut8(){
-			document.getElementById("con8").style.opacity = 0;
-			var del = document.getElementById("cond7");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut9()', 2000);
-		}
-		function fadeOut9(){
-			document.getElementById("con9").style.opacity = 0;
-			var del = document.getElementById("cond8");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut10()', 2000);
-		}
-		function fadeOut10(){
-			document.getElementById("con10").style.opacity = 0;
-			var del = document.getElementById("cond9");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut11()', 2000);
-		}
-		function fadeOut11(){
-			document.getElementById("con11").style.opacity = 0;
-			var del = document.getElementById("cond10");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut12()', 2000);
-		}
-		function fadeOut12(){
-			document.getElementById("con12").style.opacity = 0;
-			var del = document.getElementById("cond11");
-			del.parentNode.removeChild(del);
-			setTimeout('fadeOut7()', 2000);
-		}
 
 	</script>
+
+	<script src="contest.js"></script>
 
 </head>
 <body style="background: #333;">
@@ -299,7 +223,7 @@
 			<br />
 
 			<!-- FIRST ROW -->
-			<div class="container-two">
+			<div class="container-two" id="frow">
 				<div class="col-md-12" id="frow">
 
 					<div class="col-md-2" id="cond">
@@ -330,7 +254,7 @@
 			</div>
 			
 			<!-- SECOND ROW -->
-			<div class="container-two">
+			<div class="container-two" id="srow">
 				<div class="col-md-12" id="srow">
 
 					<div class="col-md-2" id="cond7">
@@ -361,36 +285,161 @@
 			</div>
 
 			<!-- THIRD ROW -->
-			<div class="container-two">
+			<div class="container-two" id="throw">
 				<div class="col-md-12" id="throw">
 
-					<div class="col-md-2" id="cond7">
-						<p id="con7" class="contestant">AllahuAkbar</p>
+					<div class="col-md-2" id="cond14">
+						<p id="con14" class="contestant">AllahuAkbar</p>
 					</div>
 
-					<div class="col-md-2" id="cond9">
-						<p id="con9" class="contestant">Destructo22</p>
+					<div class="col-md-2" id="cond13">
+						<p id="con13" class="contestant">Destructo22</p>
 					</div>
 
-					<div class="col-md-2" id="cond8">
-						<p id="con8" class="contestant">pleasekillme1217</p>
+					<div class="col-md-2" id="cond17">
+						<p id="con17" class="contestant">pleasekillme1217</p>
 					</div>
 
-					<div class="col-md-2" id="cond10">
-						<p id="con10" class="contestant">ayylmao696969</p>
+					<div class="col-md-2" id="cond15">
+						<p id="con15" class="contestant">ayylmao696969</p>
 					</div>
 
-					<div class="col-md-2" id="cond12">
-						<p id="con12" class="contestant">baruckobumu420</p>
+					<div class="col-md-2" id="cond18">
+						<p id="con18" class="contestant">baruckobumu420</p>
 					</div>
 
-					<div class="col-md-2" id="cond11">
-						<p id="con11" class="contestant">xx_snipehawkz_xx</p>
+					<div class="col-md-2" id="cond16">
+						<p id="con16" class="contestant">xx_snipehawkz_xx</p>
 					</div>
 
 				</div>
 			</div>
 
+
+			<!-- FOURTH ROW -->
+			<div class="container-two" id="ftrow">
+				<div class="col-md-12" id="ftrow">
+
+					<div class="col-md-2" id="cond20">
+						<p id="con20" class="contestant">AllahuAkbar</p>
+					</div>
+
+					<div class="col-md-2" id="cond19">
+						<p id="con19" class="contestant">Destructo22</p>
+					</div>
+
+					<div class="col-md-2" id="cond22">
+						<p id="con22" class="contestant">pleasekillme1217</p>
+					</div>
+
+					<div class="col-md-2" id="cond21">
+						<p id="con21" class="contestant">ayylmao696969</p>
+					</div>
+
+					<div class="col-md-2" id="cond24">
+						<p id="con24" class="contestant">baruckobumu420</p>
+					</div>
+
+					<div class="col-md-2" id="cond23">
+						<p id="con23" class="contestant">xx_snipehawkz_xx</p>
+					</div>
+
+				</div>
+			</div>
+
+			<!-- FIFTH ROW -->
+			<div class="container-two" id="ffrow">
+				<div class="col-md-12" id="ffrow">
+
+					<div class="col-md-2" id="cond26">
+						<p id="con26" class="contestant">AllahuAkbar</p>
+					</div>
+
+					<div class="col-md-2" id="cond25">
+						<p id="con25" class="contestant">Destructo22</p>
+					</div>
+
+					<div class="col-md-2" id="cond28">
+						<p id="con28" class="contestant">pleasekillme1217</p>
+					</div>
+
+					<div class="col-md-2" id="cond27">
+						<p id="con27" class="contestant">ayylmao696969</p>
+					</div>
+
+					<div class="col-md-2" id="cond30">
+						<p id="con30" class="contestant">baruckobumu420</p>
+					</div>
+
+					<div class="col-md-2" id="cond29">
+						<p id="con29" class="contestant">xx_snipehawkz_xx</p>
+					</div>
+
+				</div>
+			</div>
+
+			<!-- SIXTH ROW -->
+			<div class="container-two" id="ftrow">
+				<div class="col-md-12" id="ftrow">
+
+					<div class="col-md-2" id="cond20">
+						<p id="con20" class="contestant">AllahuAkbar</p>
+					</div>
+
+					<div class="col-md-2" id="cond19">
+						<p id="con19" class="contestant">Destructo22</p>
+					</div>
+
+					<div class="col-md-2" id="cond22">
+						<p id="con22" class="contestant">pleasekillme1217</p>
+					</div>
+
+					<div class="col-md-2" id="cond21">
+						<p id="con21" class="contestant">ayylmao696969</p>
+					</div>
+
+					<div class="col-md-2" id="cond24">
+						<p id="con24" class="contestant">baruckobumu420</p>
+					</div>
+
+					<div class="col-md-2" id="cond23">
+						<p id="con23" class="contestant">xx_snipehawkz_xx</p>
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- SEVENTH ROW -->
+			<div class="container-two" id="ftrow">
+				<div class="col-md-12" id="ftrow">
+
+					<div class="col-md-2" id="cond20">
+						<p id="con20" class="contestant">AllahuAkbar</p>
+					</div>
+
+					<div class="col-md-2" id="cond19">
+						<p id="con19" class="contestant">Destructo22</p>
+					</div>
+
+					<div class="col-md-2" id="cond22">
+						<p id="con22" class="contestant">pleasekillme1217</p>
+					</div>
+
+					<div class="col-md-2" id="cond21">
+						<p id="con21" class="contestant">ayylmao696969</p>
+					</div>
+
+					<div class="col-md-2" id="cond24">
+						<p id="con24" class="contestant">baruckobumu420</p>
+					</div>
+
+					<div class="col-md-2" id="cond23">
+						<p id="con23" class="contestant">xx_snipehawkz_xx</p>
+					</div>
+
+				</div>
+			</div>
 
 
 
