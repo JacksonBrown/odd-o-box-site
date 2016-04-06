@@ -61,6 +61,7 @@
 				frow_elem = document.getElementById("frow");
 				del.parentNode.removeChild(frow_elem);
 			}
+			document.getElementById("con7").style.opacity = 0;
 			var del = document.getElementById("cond6");
 			del.parentNode.removeChild(del);
 			setTimeout('fadeOut8()', 2000);
@@ -90,7 +91,7 @@
 			setTimeout('fadeOut12()', 2000);
 		}
 		function fadeOut12(){
-			//document.getElementById("con12").style.opacity = 0;
+			document.getElementById("con12").style.opacity = 0;
 			var del = document.getElementById("cond11");
 			del.parentNode.removeChild(del);
 			setTimeout('fadeOut13()', 2000);
@@ -102,7 +103,6 @@
 		// NEW FUNCTION
 		/*
 		**************
-		*/
 
 
 		
@@ -111,6 +111,7 @@
 				frow_elem = document.getElementById("srow");
 				del.parentNode.removeChild(frow_elem);
 			}
+			document.getElementById("con36").style.opacity = 0;
 			var del = document.getElementById("cond12");
 			del.parentNode.removeChild(del);
 			setTimeout('fadeOut14()', 2000);
@@ -160,6 +161,7 @@
 				frow_elem = document.getElementById("srow");
 				del.parentNode.removeChild(frow_elem);
 			}
+			document.getElementById("con13").style.opacity = 0;
 			var del = document.getElementById("cond12");
 			del.parentNode.removeChild(del);
 			setTimeout('fadeOut14()', 2000);
@@ -209,6 +211,7 @@
 				frow_elem = document.getElementById("throw");
 				del.parentNode.removeChild(frow_elem);
 			}
+			document.getElementById("con19").style.opacity = 0;
 			var del = document.getElementById("cond18");
 			del.parentNode.removeChild(del);
 			setTimeout('fadeOut20()', 2000);
@@ -220,15 +223,15 @@
 			setTimeout('fadeOut21()', 2000);
 		}
 		function fadeOut21(){
-			//document.getElementById("con21").style.opacity = 0;
+			document.getElementById("con21").style.opacity = 0;
 			var del = document.getElementById("cond20");
 			del.parentNode.removeChild(del);
 			setTimeout('fadeOut22()', 2000);
 		}
 		function fadeOut22(){
 			document.getElementById("con22").style.opacity = 0;
-			//var del = document.getElementById("cond21");
-			//del.parentNode.removeChild(del);
+			var del = document.getElementById("cond21");
+			del.parentNode.removeChild(del);
 			setTimeout('fadeOut23()', 2000);
 		}
 		function fadeOut23(){
@@ -257,6 +260,7 @@
 				frow_elem = document.getElementById("ffrow");
 				del.parentNode.removeChild(frow_elem);
 			}
+			document.getElementById("con25").style.opacity = 0;
 			var del = document.getElementById("cond24");
 			del.parentNode.removeChild(del);
 			setTimeout('fadeOut26()', 2000);
@@ -303,43 +307,44 @@
 
 
 		function fadeOut31(){
-			if (document.getElementById("srow") === ""){
-				frow_elem = document.getElementById("srow");
+			if (document.getElementById("sxrow") === ""){
+				frow_elem = document.getElementById("sxrow");
 				del.parentNode.removeChild(frow_elem);
 			}
-			var del = document.getElementById("cond12");
+			document.getElementById("con31").style.opacity = 0;
+			var del = document.getElementById("cond30");
 			del.parentNode.removeChild(del);
-			setTimeout('fadeOut14()', 2000);
+			setTimeout('fadeOut32()', 2000);
 		}
 		function fadeOut32(){
-			document.getElementById("con14").style.opacity = 0;
-			var del = document.getElementById("cond13");
+			document.getElementById("con32").style.opacity = 0;
+			var del = document.getElementById("cond31");
 			del.parentNode.removeChild(del);
-			setTimeout('fadeOut15()', 2000);
+			setTimeout('fadeOut33()', 2000);
 		}
 		function fadeOut33(){
-			document.getElementById("con15").style.opacity = 0;
-			var del = document.getElementById("cond14");
+			document.getElementById("con33").style.opacity = 0;
+			var del = document.getElementById("cond32");
 			del.parentNode.removeChild(del);
-			setTimeout('fadeOut16()', 2000);
+			setTimeout('fadeOut34()', 2000);
 		}
 		function fadeOut34(){
-			document.getElementById("con16").style.opacity = 0;
-			var del = document.getElementById("cond15");
+			document.getElementById("con34").style.opacity = 0;
+			var del = document.getElementById("cond33");
 			del.parentNode.removeChild(del);
-			setTimeout('fadeOut17()', 2000);
+			setTimeout('fadeOut35()', 2000);
 		}
 		function fadeOut35(){
-			document.getElementById("con17").style.opacity = 0;
-			var del = document.getElementById("cond16");
+			document.getElementById("con35").style.opacity = 0;
+			var del = document.getElementById("cond34");
 			del.parentNode.removeChild(del);
-			setTimeout('fadeOut18()', 2000);
+			setTimeout('fadeOut36()', 2000);
 		}
 		function fadeOut36(){
-			document.getElementById("con18").style.opacity = 0;
-			var del = document.getElementById("cond17");
+			document.getElementById("con36").style.opacity = 0;
+			var del = document.getElementById("cond35");
 			del.parentNode.removeChild(del);
-			setTimeout('fadeOut19()', 2000);
+			setTimeout('fadeOut37()', 2000);
 		}
 
 
@@ -350,4 +355,149 @@
 		*/
 
 
+
+		function fadeOut37(){
+			if (document.getElementById("srow") === ""){
+				frow_elem = document.getElementById("srow");
+				del.parentNode.removeChild(frow_elem);
+			}
+			document.getElementById("con37").style.opacity = 0;
+			var del = document.getElementById("cond36");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut38()', 2000);
+		}
+		function fadeOut38(){
+			document.getElementById("con38").style.opacity = 0;
+			var del = document.getElementById("cond37");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut39()', 2000);
+		}
+		function fadeOut39(){
+			document.getElementById("con39").style.opacity = 0;
+			var del = document.getElementById("cond38");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut40()', 2000);
+		}
+		function fadeOut40(){
+			document.getElementById("con40").style.opacity = 0;
+			var del = document.getElementById("cond39");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut41()', 2000);
+		}
+		function fadeOut41(){
+			document.getElementById("con41").style.opacity = 0;
+			var del = document.getElementById("cond40");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut42()', 2000);
+		}
+		function fadeOut42(){
+			document.getElementById("con42").style.opacity = 0;
+			var del = document.getElementById("cond41");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut43()', 2000);
+		}
+
+
+
+		// NEW FUNCTION
+		/*
+		**************
+		*/
+
+
+
+		function fadeOut43(){
+			if (document.getElementById("svtrow") === ""){
+				frow_elem = document.getElementById("svtrow");
+				del.parentNode.removeChild(frow_elem);
+			}
+			document.getElementById("con43").style.opacity = 0;
+			var del = document.getElementById("cond42");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut44()', 2000);
+		}
+		function fadeOut44(){
+			document.getElementById("con44").style.opacity = 0;
+			var del = document.getElementById("cond43");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut45()', 2000);
+		}
+		function fadeOut45(){
+			document.getElementById("con45").style.opacity = 0;
+			var del = document.getElementById("cond44");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut46()', 2000);
+		}
+		function fadeOut46(){
+			document.getElementById("con46").style.opacity = 0;
+			var del = document.getElementById("cond45");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut47()', 2000);
+		}
+		function fadeOut47(){
+			document.getElementById("con47").style.opacity = 0;
+			var del = document.getElementById("cond46");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut48()', 2000);
+		}
+		function fadeOut48(){
+			document.getElementById("con48").style.opacity = 0;
+			var del = document.getElementById("cond47");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut49()', 2000);
+		}
+
+
+
+		// NEW FUNCTION
+		/*
+		**************
+		*/
+
+		function fadeOut49(){
+			if (document.getElementById("egrow") === ""){
+				frow_elem = document.getElementById("egrow");
+				del.parentNode.removeChild(frow_elem);
+			}
+			document.getElementById("con49").style.opacity = 0;
+			var del = document.getElementById("cond48");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut50()', 2000);
+		}
+		function fadeOut50(){
+			document.getElementById("con50").style.opacity = 0;
+			var del = document.getElementById("cond49");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut51()', 2000);
+		}
+		function fadeOut51(){
+			document.getElementById("con51").style.opacity = 0;
+			var del = document.getElementById("cond50");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut52()', 2000);
+		}
+		function fadeOut52(){
+			document.getElementById("con52").style.opacity = 0;
+			var del = document.getElementById("cond51");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut53()', 2000);
+		}
+		function fadeOut53(){
+			document.getElementById("con53").style.opacity = 0;
+			var del = document.getElementById("cond52");
+			del.parentNode.removeChild(del);
+			setTimeout('fadeOut54()', 2000);
+		}
+		function fadeOut54(){
+			document.getElementById("con54").style.opacity = 0;
+			var del = document.getElementById("cond53");
+			del.parentNode.removeChild(del);
+		}
+
+
+
+		// NEW FUNCTION
+		/*
+		**************
+		*/
 

@@ -379,31 +379,31 @@
 			</div>
 
 			<!-- SIXTH ROW -->
-			<div class="container-two" id="ftrow">
-				<div class="col-md-12" id="ftrow">
+			<div class="container-two" id="sxrow">
+				<div class="col-md-12" id="sxrow">
 
-					<div class="col-md-2" id="cond20">
-						<p id="con20" class="contestant">AllahuAkbar</p>
+					<div class="col-md-2" id="cond32">
+						<p id="con32" class="contestant">AllahuAkbar</p>
 					</div>
 
-					<div class="col-md-2" id="cond19">
-						<p id="con19" class="contestant">Destructo22</p>
+					<div class="col-md-2" id="cond31">
+						<p id="con31" class="contestant">Destructo22</p>
 					</div>
 
-					<div class="col-md-2" id="cond22">
-						<p id="con22" class="contestant">pleasekillme1217</p>
+					<div class="col-md-2" id="cond34">
+						<p id="con34" class="contestant">pleasekillme1217</p>
 					</div>
 
-					<div class="col-md-2" id="cond21">
-						<p id="con21" class="contestant">ayylmao696969</p>
+					<div class="col-md-2" id="cond33">
+						<p id="con33" class="contestant">ayylmao696969</p>
 					</div>
 
-					<div class="col-md-2" id="cond24">
-						<p id="con24" class="contestant">baruckobumu420</p>
+					<div class="col-md-2" id="cond36">
+						<p id="con36" class="contestant">baruckobumu420</p>
 					</div>
 
-					<div class="col-md-2" id="cond23">
-						<p id="con23" class="contestant">xx_snipehawkz_xx</p>
+					<div class="col-md-2" id="cond35">
+						<p id="con35" class="contestant">xx_snipehawkz_xx</p>
 					</div>
 
 				</div>
@@ -411,36 +411,97 @@
 
 
 			<!-- SEVENTH ROW -->
-			<div class="container-two" id="ftrow">
-				<div class="col-md-12" id="ftrow">
+			<div class="container-two" id="svtrow">
+				<div class="col-md-12" id="svtrow">
 
-					<div class="col-md-2" id="cond20">
-						<p id="con20" class="contestant">AllahuAkbar</p>
+					<div class="col-md-2" id="cond38">
+						<p id="con38" class="contestant">AllahuAkbar</p>
 					</div>
 
-					<div class="col-md-2" id="cond19">
-						<p id="con19" class="contestant">Destructo22</p>
+					<div class="col-md-2" id="cond37">
+						<p id="con37" class="contestant">Destructo22</p>
 					</div>
 
-					<div class="col-md-2" id="cond22">
-						<p id="con22" class="contestant">pleasekillme1217</p>
+					<div class="col-md-2" id="cond40">
+						<p id="con40" class="contestant">pleasekillme1217</p>
 					</div>
 
-					<div class="col-md-2" id="cond21">
-						<p id="con21" class="contestant">ayylmao696969</p>
+					<div class="col-md-2" id="cond39">
+						<p id="con39" class="contestant">ayylmao696969</p>
 					</div>
 
-					<div class="col-md-2" id="cond24">
-						<p id="con24" class="contestant">baruckobumu420</p>
+					<div class="col-md-2" id="cond42">
+						<p id="con42" class="contestant">baruckobumu420</p>
 					</div>
 
-					<div class="col-md-2" id="cond23">
-						<p id="con23" class="contestant">xx_snipehawkz_xx</p>
+					<div class="col-md-2" id="cond41">
+						<p id="con41" class="contestant">xx_snipehawkz_xx</p>
 					</div>
 
 				</div>
 			</div>
 
+			<!-- EIGTH ROW -->
+			<div class="container-two" id="egrow">
+				<div class="col-md-12" id="egrow">
+
+					<div class="col-md-2" id="cond44">
+						<p id="con44" class="contestant">AllahuAkbar</p>
+					</div>
+
+					<div class="col-md-2" id="cond43">
+						<p id="con43" class="contestant">Destructo22</p>
+					</div>
+
+					<div class="col-md-2" id="cond46">
+						<p id="con46" class="contestant">pleasekillme1217</p>
+					</div>
+
+					<div class="col-md-2" id="cond45">
+						<p id="con45" class="contestant">ayylmao696969</p>
+					</div>
+
+					<div class="col-md-2" id="cond48">
+						<p id="con48" class="contestant">baruckobumu420</p>
+					</div>
+
+					<div class="col-md-2" id="cond47">
+						<p id="con47" class="contestant">xx_snipehawkz_xx</p>
+					</div>
+
+				</div>
+			</div>
+
+			<!-- NINTH ROW -->
+			<div class="container-two" id="nnrow">
+				<div class="col-md-12" id="nnrow">
+
+					<div class="col-md-2" id="cond50">
+						<p id="con50" class="contestant">AllahuAkbar</p>
+					</div>
+
+					<div class="col-md-2" id="cond49">
+						<p id="con49" class="contestant">Destructo22</p>
+					</div>
+
+					<div class="col-md-2" id="cond52">
+						<p id="con52" class="contestant">pleasekillme1217</p>
+					</div>
+
+					<div class="col-md-2" id="cond51">
+						<p id="con51" class="contestant">ayylmao696969</p>
+					</div>
+
+					<div class="col-md-2" id="cond54">
+						<p id="con54" class="contestant">baruckobumu420</p>
+					</div>
+
+					<div class="col-md-2" id="cond53">
+						<p id="con53" class="contestant">xx_snipehawkz_xx</p>
+					</div>
+
+				</div>
+			</div>
 
 
 		</div>
