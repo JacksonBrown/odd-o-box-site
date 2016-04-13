@@ -1,7 +1,7 @@
 
 
 		function getRand(){
-			var win = Math.floor((Math.random * 72) + 1);
+			var win = Math.floor((Math.random * 10) + 1);
 		}
 
 
