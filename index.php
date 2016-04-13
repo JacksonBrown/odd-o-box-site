@@ -19,17 +19,11 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 	<link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
-	<link rel="stylesheet" type="text/css" href="unslider/dist/css/unslider.css" />
 	
 	<!-- Load jQuery -->
 	<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="//code.jquery.com/jquery-latest.min.js"></script>
-	<script src="js/unslider.min.js"></script>
-	<script src="js/unslider.js"></script>
-	
-	<!-- Load Unslider -->
-	<script src="//unslider.com/unslider.min.js"></script>
 	
 	<!-- Set Title Logo -->
 	<link rel="shortcut icon" href="css/img/diamond.png" />
@@ -285,10 +279,6 @@
 
 	<!-- Load custom js for theme -->
 	<script type="text/javascript" src="js/app.js"></script>
-	
-	<!-- Load Unslider 
-	<script src="unslider/src/js/unslider.js"></script>
-	<!-- END OMIT -->
 
 </body>
 </html>

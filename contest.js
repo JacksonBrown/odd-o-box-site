@@ -1,5 +1,9 @@
 
 
+		function getRand(){
+			var win = Math.floor((Math.random * 10) + 1);
+		}
+
 
 
 		// NEW FUNCTION
