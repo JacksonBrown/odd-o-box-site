@@ -141,7 +141,7 @@
 				<div class="column">
 					<div class="second-half-item">
 						<div class="video-view">
-							<iframe src="https://www.youtube.com/embed/zOT2Vps1a1Y?list=PLMGscQtuGnF4HV-pAk4351nhG4PY5gq_n" frameborder="0" allowfullscreen></iframe>
+							<iframe src="https://www.youtube.com/embed/videoseries?list=PLMGscQtuGnF4HV-pAk4351nhG4PY5gq_n" frameborder="0" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
