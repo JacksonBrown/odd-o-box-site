@@ -119,6 +119,9 @@
 			<div class="header-info">
 					<h1 class="landing-header" style="color: #fff;"><span id="wss"></span></h1>
 					<script>wss_elem = document.getElementById("wss"); wssSlide();</script>
+					<?php
+						include 'subcount.php';
+					?>
 					<a data-scroll href="#second-half" class="btn btn-primary" target="_blank">Newest Video</a>
 			</div>
 		</div>
