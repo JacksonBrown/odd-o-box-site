@@ -12,11 +12,16 @@
 		</div>
 		<span id="username" style="display: none;">Loading..</span>
 		<br>
-		<i class="fa fa-youtube" style="padding: 10px; font-size: 60px;"></i><h2 class="count_live" style="font-size: 60px; margin-right: 20px;">..Loading Subscriber Count..</h2>
-		<h2 style="display: none;" class="count_yt">..wait..</h2>
-		<i class="fa fa-play" style="padding: 10px; font-size: 60px;"></i><h2 class="count_view normalize" style="font-size: 60px;"> ..Loading View Count..</h2> <br>
+		<div class="col-md-6">
+		<i class="fa fa-youtube" style="padding: 10px; font-size: 60px;"></i><h2 class="count_yt" style="font-size: 60px; margin-right: 20px;"></h2>
+		<h2 class="count_yt" style="display: none;">...</h2>
+		</div>
+
+		<div id="col-md-6">
+		<i class="fa fa-play" style="padding: 10px; font-size: 60px;"></i><h2 class="count_view normalize" style="font-size: 60px;">...</h2><br>
+		</div>
 		<span class="milestones" id="milestoneBox" style="display: none;">
-			<br>You are just <h2 class="milestone_away">..wait..</h2>	subscribers away from <h2 class="milestone_target">..wait..</h2>!
+			<br>You are just <h2 class="milestone_away">...</h2>	subscribers away from <h2 class="milestone_target">..wait..</h2>!
 		</span>
 	</div>
 	<div class="" id="main" style="display: none;">
@@ -27,9 +32,6 @@
 		     data-ad-client="ca-pub-3188055178160882"
 		     data-ad-slot="4767099859"
 		     data-ad-format="auto"></ins>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
 		<section class="ac-container" style="display: none;">
 			<div>
 				<input id="ac-1" name="accordion-1" type="radio" class="accordion"/>

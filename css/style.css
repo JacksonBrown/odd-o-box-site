@@ -52,7 +52,7 @@ p, input, textarea{
 }
 
 .container h1{
-	margin-top: 20%;
+	margin-top: 15%;
 }
 
 .btn{
@@ -376,6 +376,14 @@ iframe{
 @media screen and (max-width: 868px){
 	.nav{
 		display: none;
+	}
+
+	.includesubs{
+		display: none;
+	}
+
+	.paral{
+		background: url('img/space-bg.jpg');
 	}
 }
 

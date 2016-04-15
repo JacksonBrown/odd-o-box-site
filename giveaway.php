@@ -626,7 +626,36 @@
 
 				</div>
 			</div>
+			<!-- THIRTEENTH ROW -->
+			<div class="container-two" id="thrtrow">
+				<div class="col-md-12" id="thrtrow">
 
+					<div class="col-md-2" id="cond74">
+						<p id="con74" class="contestant">YezaAoi</p>
+					</div>
+
+					<div class="col-md-2" id="cond73">
+						<p id="con73" class="contestant">TheDBZSquirrel</p>
+					</div>
+
+					<div class="col-md-2" id="cond76">
+						<p id="con76" class="contestant">ZeniGaming</p>
+					</div>
+
+					<div class="col-md-2" id="cond75">
+						<p id="con75" class="contestant">Utsav Joshi</p>
+					</div>
+
+					<div class="col-md-2" id="cond78">
+						<p id="con78" class="contestant">Vanz Aromo</p>
+					</div>
+
+					<div class="col-md-2" id="cond77">
+						<p id="con77" class="contestant">xTrixB</p>
+					</div>
+
+				</div>
+			</div>
 
 		</div>
 
