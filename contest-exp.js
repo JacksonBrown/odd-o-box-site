@@ -1,11 +1,12 @@
 
 
-		function getRand(){
-			var win = Math.floor((Math.random * 102) + 1);
-			var winner = document.getElementById("con" + win);
+		function getRand(min, max){
+			window.onload = function(){
+				var win = Math.floor(Math.random() * (max - min + 1)) + min;
+				var winner = document.getElementById("con" + win);	
+				winner.style.opacity = 1;
+			};
 		}
-
-
 
 		// NEW FUNCTION
 		/*
@@ -710,3 +711,4 @@
 			var del = document.getElementById("cond101");
 		}
 
+		getRand(1, 102);
