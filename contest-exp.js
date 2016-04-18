@@ -687,7 +687,7 @@
 			setTimeout('fadeOut98()', 2000);
 		}
 		function fadeOut98(){
-			document.getElementById("con97").style.opacity = 0;
+			document.getElementById("con98").style.opacity = 0;
 			var del = document.getElementById("cond97");
 			setTimeout('fadeOut99()', 2000);
 		}
@@ -709,6 +709,8 @@
 		function fadeOut102(){
 			document.getElementById("con102").style.opacity = 0;
 			var del = document.getElementById("cond101");
+			var win = Math.floor(Math.random() * (102 - 1 + 1)) + 1;
+			var winner = document.getElementById("con" + win);	
+			winner.style.opacity = 1;
 		}
 
-		getRand(1, 102);
