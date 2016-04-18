@@ -189,7 +189,6 @@
 
 	</script>
 
-	<script src="contest.js"></script>
 
 </head>
 <body style="background: #333;">
@@ -252,6 +251,37 @@
 
 				</div>
 			</div>
+
+			<!-- FOURTH ROW -->
+			<div class="container-two" id="ftrow">
+				<div class="col-md-12" id="ftrow">
+
+					<div class="col-md-2" id="cond20">
+						<p id="con20" class="contestant">Goofy Guy19</p>
+					</div>
+
+					<div class="col-md-2" id="cond19">
+						<p id="con19" class="contestant">Destructo22</p>
+					</div>
+
+					<div class="col-md-2" id="cond22">
+						<p id="con22" class="contestant">HERPxDERPIN</p>
+					</div>
+
+					<div class="col-md-2" id="cond21">
+						<p id="con21" class="contestant">HeyThereVader</p>
+					</div>
+
+					<div class="col-md-2" id="cond24">
+						<p id="con24" class="contestant">ifitworks</p>
+					</div>
+
+					<div class="col-md-2" id="cond23">
+						<p id="con23" class="contestant">iRyluh</p>
+					</div>
+
+				</div>
+			</div>
 			
 			<!-- SECOND ROW -->
 			<div class="container-two" id="srow">
@@ -279,6 +309,69 @@
 
 					<div class="col-md-2" id="cond11">
 						<p id="con11" class="contestant">Dalton Kee (MonoCom)</p>
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- EIGTH ROW -->
+			<div class="container-two" id="egrow">
+				<div class="col-md-12" id="egrow">
+
+					<div class="col-md-2" id="cond44">
+						<p id="con44" class="contestant">Mavis Odrade</p>
+					</div>
+
+					<div class="col-md-2" id="cond43">
+						<p id="con43" class="contestant">MegaGamer</p>
+					</div>
+
+					<div class="col-md-2" id="cond46">
+						<p id="con46" class="contestant">Mostafa El Azizy</p>
+					</div>
+
+					<div class="col-md-2" id="cond45">
+						<p id="con45" class="contestant">MrWapk</p>
+					</div>
+
+					<div class="col-md-2" id="cond48">
+						<p id="con48" class="contestant">mumzel99</p>
+					</div>
+
+					<div class="col-md-2" id="cond47">
+						<p id="con47" class="contestant">Nils Meyerhoff</p>
+					</div>
+
+				</div>
+			</div>
+
+			<!-- FIFTH ROW -->
+			<div class="container-two" id="ffrow">
+				<div class="col-md-12" id="ffrow">
+
+					<div class="col-md-2" id="cond26">
+						<p id="con26" class="contestant">Isaiah Martinez</p>
+					</div>
+
+					<div class="col-md-2" id="cond25">
+						<p id="con25" class="contestant">Its Fishee</p>
+					</div>
+
+					<div class="col-md-2" id="cond28">
+						<p id="con28" class="contestant">Jackson Brown</p>
+					</div>
+
+					<div class="col-md-2" id="cond27">
+						<p id="con27" class="contestant">Jarrow</p>
+					</div>
+
+					<div class="col-md-2" id="cond30">
+						<p id="con30" class="contestant">Jo E</p>
+					</div>
+
+					<div class="col-md-2" id="cond29">
+						<p id="con29" class="contestant">Joe Jay</p>
 					</div>
 
 				</div>
@@ -316,68 +409,6 @@
 			</div>
 
 
-			<!-- FOURTH ROW -->
-			<div class="container-two" id="ftrow">
-				<div class="col-md-12" id="ftrow">
-
-					<div class="col-md-2" id="cond20">
-						<p id="con20" class="contestant">Goofy Guy19</p>
-					</div>
-
-					<div class="col-md-2" id="cond19">
-						<p id="con19" class="contestant">Destructo22</p>
-					</div>
-
-					<div class="col-md-2" id="cond22">
-						<p id="con22" class="contestant">HERPxDERPIN</p>
-					</div>
-
-					<div class="col-md-2" id="cond21">
-						<p id="con21" class="contestant">HeyThereVader</p>
-					</div>
-
-					<div class="col-md-2" id="cond24">
-						<p id="con24" class="contestant">ifitworks</p>
-					</div>
-
-					<div class="col-md-2" id="cond23">
-						<p id="con23" class="contestant">iRyluh</p>
-					</div>
-
-				</div>
-			</div>
-
-			<!-- FIFTH ROW -->
-			<div class="container-two" id="ffrow">
-				<div class="col-md-12" id="ffrow">
-
-					<div class="col-md-2" id="cond26">
-						<p id="con26" class="contestant">Isaiah Martinez</p>
-					</div>
-
-					<div class="col-md-2" id="cond25">
-						<p id="con25" class="contestant">Its Fishee</p>
-					</div>
-
-					<div class="col-md-2" id="cond28">
-						<p id="con28" class="contestant">Jackson Brown</p>
-					</div>
-
-					<div class="col-md-2" id="cond27">
-						<p id="con27" class="contestant">Jarrow</p>
-					</div>
-
-					<div class="col-md-2" id="cond30">
-						<p id="con30" class="contestant">Jo E</p>
-					</div>
-
-					<div class="col-md-2" id="cond29">
-						<p id="con29" class="contestant">Joe Jay</p>
-					</div>
-
-				</div>
-			</div>
-
 			<!-- SIXTH ROW -->
 			<div class="container-two" id="sxrow">
 				<div class="col-md-12" id="sxrow">
@@ -404,100 +435,6 @@
 
 					<div class="col-md-2" id="cond35">
 						<p id="con35" class="contestant">Last WarLorD</p>
-					</div>
-
-				</div>
-			</div>
-
-
-			<!-- SEVENTH ROW -->
-			<div class="container-two" id="svtrow">
-				<div class="col-md-12" id="svtrow">
-
-					<div class="col-md-2" id="cond38">
-						<p id="con38" class="contestant">Legit Shawn</p>
-					</div>
-
-					<div class="col-md-2" id="cond37">
-						<p id="con37" class="contestant">lethalcookie</p>
-					</div>
-
-					<div class="col-md-2" id="cond40">
-						<p id="con40" class="contestant">Linda Davis</p>
-					</div>
-
-					<div class="col-md-2" id="cond39">
-						<p id="con39" class="contestant">LittleAsianBoy</p>
-					</div>
-
-					<div class="col-md-2" id="cond42">
-						<p id="con42" class="contestant">Lucky Shamrock</p>
-					</div>
-
-					<div class="col-md-2" id="cond41">
-						<p id="con41" class="contestant">Madden mobile boys</p>
-					</div>
-
-				</div>
-			</div>
-
-			<!-- EIGTH ROW -->
-			<div class="container-two" id="egrow">
-				<div class="col-md-12" id="egrow">
-
-					<div class="col-md-2" id="cond44">
-						<p id="con44" class="contestant">Mavis Odrade</p>
-					</div>
-
-					<div class="col-md-2" id="cond43">
-						<p id="con43" class="contestant">MegaGamer</p>
-					</div>
-
-					<div class="col-md-2" id="cond46">
-						<p id="con46" class="contestant">Mostafa El Azizy</p>
-					</div>
-
-					<div class="col-md-2" id="cond45">
-						<p id="con45" class="contestant">MrWapk</p>
-					</div>
-
-					<div class="col-md-2" id="cond48">
-						<p id="con48" class="contestant">mumzel99</p>
-					</div>
-
-					<div class="col-md-2" id="cond47">
-						<p id="con47" class="contestant">Nils Meyerhoff</p>
-					</div>
-
-				</div>
-			</div>
-
-			<!-- NINTH ROW -->
-			<div class="container-two" id="nnrow">
-				<div class="col-md-12" id="nnrow">
-
-					<div class="col-md-2" id="cond50">
-						<p id="con50" class="contestant">papacreeperBOOM</p>
-					</div>
-
-					<div class="col-md-2" id="cond49">
-						<p id="con49" class="contestant">Pathrazer (Pathrazer)</p>
-					</div>
-
-					<div class="col-md-2" id="cond52">
-						<p id="con52" class="contestant">Puremix</p>
-					</div>
-
-					<div class="col-md-2" id="cond51">
-						<p id="con51" class="contestant">Rafael Kovač</p>
-					</div>
-
-					<div class="col-md-2" id="cond54">
-						<p id="con54" class="contestant">Raiken</p>
-					</div>
-
-					<div class="col-md-2" id="cond53">
-						<p id="con53" class="contestant">RedWolf Gaming</p>
 					</div>
 
 				</div>
@@ -534,63 +471,65 @@
 				</div>
 			</div>
 
-			<!-- ELEVENTH ROW -->
-			<div class="container-two" id="elthrow">
-				<div class="col-md-12" id="elthrow">
 
-					<div class="col-md-2" id="cond62">
-						<p id="con62" class="contestant">Self Generator HD</p>
+
+			<!-- SEVENTH ROW -->
+			<div class="container-two" id="svtrow">
+				<div class="col-md-12" id="svtrow">
+
+					<div class="col-md-2" id="cond38">
+						<p id="con38" class="contestant">Legit Shawn</p>
 					</div>
 
-					<div class="col-md-2" id="cond61">
-						<p id="con61" class="contestant">serena is kawaii</p>
+					<div class="col-md-2" id="cond37">
+						<p id="con37" class="contestant">lethalcookie</p>
 					</div>
 
-					<div class="col-md-2" id="cond64">
-						<p id="con64" class="contestant">SkiddMark</p>
+					<div class="col-md-2" id="cond40">
+						<p id="con40" class="contestant">Linda Davis</p>
 					</div>
 
-					<div class="col-md-2" id="cond63">
-						<p id="con63" class="contestant">SmellyBrick</p>
+					<div class="col-md-2" id="cond39">
+						<p id="con39" class="contestant">LittleAsianBoy</p>
 					</div>
 
-					<div class="col-md-2" id="cond66">
-						<p id="con66" class="contestant">Snapdebap</p>
+					<div class="col-md-2" id="cond42">
+						<p id="con42" class="contestant">Lucky Shamrock</p>
 					</div>
 
-					<div class="col-md-2" id="cond65">
-						<p id="con65" class="contestant">Sven je moedr</p>
+					<div class="col-md-2" id="cond41">
+						<p id="con41" class="contestant">Madden mobile boys</p>
 					</div>
 
 				</div>
 			</div>
 
-			<!-- TWELTH ROW -->
-			<div class="container-two" id="twlthrow">
-				<div class="col-md-12" id="twlthrow">
+			<!-- NINTH ROW -->
+			<div class="container-two" id="nnrow">
+				<div class="col-md-12" id="nnrow">
 
-					<div class="col-md-2" id="cond68">
-						<p id="con68" class="contestant">ThatPuppyLover</p>
+					<div class="col-md-2" id="cond50">
+						<p id="con50" class="contestant">papacreeperBOOM</p>
 					</div>
 
-					<div class="col-md-2" id="cond67">
-						<p id="con67" class="contestant">TheDBZSquirrel</p>
+					<div class="col-md-2" id="cond49">
+						<p id="con49" class="contestant">Pathrazer (Pathrazer)</p>
 					</div>
 
-					<div class="col-md-2" id="cond70">
-						<p id="con70" class="contestant">Upam Sakib</p>
+					<div class="col-md-2" id="cond52">
+						<p id="con52" class="contestant">Puremix</p>
 					</div>
 
-					<div class="col-md-2" id="cond69">
-						<p id="con69" class="contestant">Utsav Joshi</p>
+					<div class="col-md-2" id="cond51">
+						<p id="con51" class="contestant">Rafael Kovač</p>
 					</div>
 
-					<div class="col-md-2" id="cond72">
-						<p id="con72" class="contestant">Vanz Aromo</p>
+					<div class="col-md-2" id="cond54">
+						<p id="con54" class="contestant">Raiken</p>
 					</div>
 
-					<div class="col-md-2" id="cond71">
-						<p id="con71" class="contestant">xTrixB</p>
+					<div class="col-md-2" id="cond53">
+						<p id="con53" class="contestant">RedWolf Gaming</p>
 					</div>
 
 				</div>
@@ -627,6 +566,38 @@
 				</div>
 			</div>
 
+
+			<!-- ELEVENTH ROW -->
+			<div class="container-two" id="elthrow">
+				<div class="col-md-12" id="elthrow">
+
+					<div class="col-md-2" id="cond62">
+						<p id="con62" class="contestant">Self Generator HD</p>
+					</div>
+
+					<div class="col-md-2" id="cond61">
+						<p id="con61" class="contestant">serena is kawaii</p>
+					</div>
+
+					<div class="col-md-2" id="cond64">
+						<p id="con64" class="contestant">SkiddMark</p>
+					</div>
+
+					<div class="col-md-2" id="cond63">
+						<p id="con63" class="contestant">SmellyBrick</p>
+					</div>
+
+					<div class="col-md-2" id="cond66">
+						<p id="con66" class="contestant">Snapdebap</p>
+					</div>
+
+					<div class="col-md-2" id="cond65">
+						<p id="con65" class="contestant">Sven je moedr</p>
+					</div>
+
+				</div>
+			</div>
+
 			<!-- FOURTEENTH ROW -->
 			<div class="container-two" id="fourtrow">
 				<div class="col-md-12" id="fourtrow">
@@ -653,6 +624,37 @@
 
 					<div class="col-md-2" id="cond83">
 						<p id="con83" class="contestant">James Feltner</p>
+					</div>
+
+				</div>
+			</div>
+
+			<!-- TWELTH ROW -->
+			<div class="container-two" id="twlthrow">
+				<div class="col-md-12" id="twlthrow">
+
+					<div class="col-md-2" id="cond68">
+						<p id="con68" class="contestant">ThatPuppyLover</p>
+					</div>
+
+					<div class="col-md-2" id="cond67">
+						<p id="con67" class="contestant">TheDBZSquirrel</p>
+					</div>
+
+					<div class="col-md-2" id="cond70">
+						<p id="con70" class="contestant">Upam Sakib</p>
+					</div>
+
+					<div class="col-md-2" id="cond69">
+						<p id="con69" class="contestant">Utsav Joshi</p>
+					</div>
+
+					<div class="col-md-2" id="cond72">
+						<p id="con72" class="contestant">Vanz Aromo</p>
+					</div>
+
+					<div class="col-md-2" id="cond71">
+						<p id="con71" class="contestant">xTrixB</p>
 					</div>
 
 				</div>
@@ -763,6 +765,8 @@
 	<script type="text/javascript" src="js/smooth-scroll.js"></script>
 
 	<script src="js/app.js"></script>
+
+	<script src="contest-exp.js"></script>
 	
 </body>
 </html>
