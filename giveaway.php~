@@ -299,16 +299,16 @@
 						<p id="con8" class="contestant">Bob #Whaaat?!</p>
 					</div>
 
-					<div class="col-md-2" id="cond10">
-						<p id="con10" class="contestant">Candiedbrush89</p>
+					<div class="col-md-2" id="cond45">
+						<p id="con45" class="contestant">MrWapk</p>
 					</div>
 
-					<div class="col-md-2" id="cond12">
-						<p id="con12" class="contestant">Cute Kitty</p>
+					<div class="col-md-2" id="cond48">
+						<p id="con48" class="contestant">mumzel99</p>
 					</div>
 
-					<div class="col-md-2" id="cond11">
-						<p id="con11" class="contestant">Dalton Kee (MonoCom)</p>
+					<div class="col-md-2" id="cond47">
+						<p id="con47" class="contestant">Nils Meyerhoff</p>
 					</div>
 
 				</div>
@@ -331,16 +331,16 @@
 						<p id="con46" class="contestant">Mostafa El Azizy</p>
 					</div>
 
-					<div class="col-md-2" id="cond45">
-						<p id="con45" class="contestant">MrWapk</p>
+					<div class="col-md-2" id="cond10">
+						<p id="con10" class="contestant">Candiedbrush89</p>
 					</div>
 
-					<div class="col-md-2" id="cond48">
-						<p id="con48" class="contestant">mumzel99</p>
+					<div class="col-md-2" id="cond12">
+						<p id="con12" class="contestant">Cute Kitty</p>
 					</div>
 
-					<div class="col-md-2" id="cond47">
-						<p id="con47" class="contestant">Nils Meyerhoff</p>
+					<div class="col-md-2" id="cond11">
+						<p id="con11" class="contestant">Dalton Kee (MonoCom)</p>
 					</div>
 
 				</div>
@@ -350,16 +350,16 @@
 			<div class="container-two" id="ffrow">
 				<div class="col-md-12" id="ffrow">
 
-					<div class="col-md-2" id="cond26">
-						<p id="con26" class="contestant">Isaiah Martinez</p>
+					<div class="col-md-2" id="cond14">
+						<p id="con14" class="contestant">Doge Piesek</p>
 					</div>
 
-					<div class="col-md-2" id="cond25">
-						<p id="con25" class="contestant">Its Fishee</p>
+					<div class="col-md-2" id="cond13">
+						<p id="con13" class="contestant">Ender Pearl</p>
 					</div>
 
-					<div class="col-md-2" id="cond28">
-						<p id="con28" class="contestant">Jackson Brown</p>
+					<div class="col-md-2" id="cond17">
+						<p id="con17" class="contestant">Furno Lt</p>
 					</div>
 
 					<div class="col-md-2" id="cond27">
@@ -381,18 +381,6 @@
 			<div class="container-two" id="throw">
 				<div class="col-md-12" id="throw">
 
-					<div class="col-md-2" id="cond14">
-						<p id="con14" class="contestant">Doge Piesek</p>
-					</div>
-
-					<div class="col-md-2" id="cond13">
-						<p id="con13" class="contestant">Ender Pearl</p>
-					</div>
-
-					<div class="col-md-2" id="cond17">
-						<p id="con17" class="contestant">Furno Lt</p>
-					</div>
-
 					<div class="col-md-2" id="cond15">
 						<p id="con15" class="contestant">GamingWithVengeance | Clash Royale</p>
 					</div>
@@ -403,6 +391,18 @@
 
 					<div class="col-md-2" id="cond16">
 						<p id="con16" class="contestant">Ghost._.Pyro</p>
+					</div>
+
+					<div class="col-md-2" id="cond26">
+						<p id="con26" class="contestant">Isaiah Martinez</p>
+					</div>
+
+					<div class="col-md-2" id="cond25">
+						<p id="con25" class="contestant">Its Fishee</p>
+					</div>
+
+					<div class="col-md-2" id="cond28">
+						<p id="con28" class="contestant">Jackson Brown</p>
 					</div>
 
 				</div>
@@ -425,16 +425,16 @@
 						<p id="con34" class="contestant">joseph lamb</p>
 					</div>
 
+					<div class="col-md-2" id="cond60">
+						<p id="con60" class="contestant">Rudolf Scharm</p>
+					</div>
+
+					<div class="col-md-2" id="cond59">
+						<p id="con59" class="contestant">Ryan “R2A” Quinn</p>
+					</div>
+
 					<div class="col-md-2" id="cond33">
 						<p id="con33" class="contestant">kyle ulrich</p>
-					</div>
-
-					<div class="col-md-2" id="cond36">
-						<p id="con36" class="contestant">lanny toof</p>
-					</div>
-
-					<div class="col-md-2" id="cond35">
-						<p id="con35" class="contestant">Last WarLorD</p>
 					</div>
 
 				</div>
@@ -460,13 +460,14 @@
 						<p id="con57" class="contestant">Royal</p>
 					</div>
 
-					<div class="col-md-2" id="cond60">
-						<p id="con60" class="contestant">Rudolf Scharm</p>
+					<div class="col-md-2" id="cond36">
+						<p id="con36" class="contestant">lanny toof</p>
 					</div>
 
-					<div class="col-md-2" id="cond59">
-						<p id="con59" class="contestant">Ryan “R2A” Quinn</p>
+					<div class="col-md-2" id="cond35">
+						<p id="con35" class="contestant">Last WarLorD</p>
 					</div>
+
 
 				</div>
 			</div>
@@ -477,12 +478,12 @@
 			<div class="container-two" id="svtrow">
 				<div class="col-md-12" id="svtrow">
 
-					<div class="col-md-2" id="cond38">
-						<p id="con38" class="contestant">Legit Shawn</p>
+					<div class="col-md-2" id="cond78">
+						<p id="con78" class="contestant">Vanz Aromo</p>
 					</div>
 
-					<div class="col-md-2" id="cond37">
-						<p id="con37" class="contestant">lethalcookie</p>
+					<div class="col-md-2" id="cond77">
+						<p id="con77" class="contestant">xTrixB</p>
 					</div>
 
 					<div class="col-md-2" id="cond40">
@@ -508,6 +509,18 @@
 			<div class="container-two" id="nnrow">
 				<div class="col-md-12" id="nnrow">
 
+					<div class="col-md-2" id="cond74">
+						<p id="con74" class="contestant">YezaAoi</p>
+					</div>
+
+					<div class="col-md-2" id="cond73">
+						<p id="con73" class="contestant">TheDBZSquirrel</p>
+					</div>
+
+					<div class="col-md-2" id="cond64">
+						<p id="con64" class="contestant">SkiddMark</p>
+					</div>
+
 					<div class="col-md-2" id="cond50">
 						<p id="con50" class="contestant">papacreeperBOOM</p>
 					</div>
@@ -520,18 +533,6 @@
 						<p id="con52" class="contestant">Puremix</p>
 					</div>
 
-					<div class="col-md-2" id="cond51">
-						<p id="con51" class="contestant">Rafael Kovač</p>
-					</div>
-
-					<div class="col-md-2" id="cond54">
-						<p id="con54" class="contestant">Raiken</p>
-					</div>
-
-					<div class="col-md-2" id="cond53">
-						<p id="con53" class="contestant">RedWolf Gaming</p>
-					</div>
-
 				</div>
 			</div>
 
@@ -539,12 +540,12 @@
 			<div class="container-two" id="thrtrow">
 				<div class="col-md-12" id="thrtrow">
 
-					<div class="col-md-2" id="cond74">
-						<p id="con74" class="contestant">YezaAoi</p>
+					<div class="col-md-2" id="cond62">
+						<p id="con62" class="contestant">Self Generator HD</p>
 					</div>
 
-					<div class="col-md-2" id="cond73">
-						<p id="con73" class="contestant">TheDBZSquirrel</p>
+					<div class="col-md-2" id="cond61">
+						<p id="con61" class="contestant">serena is kawaii</p>
 					</div>
 
 					<div class="col-md-2" id="cond76">
@@ -555,12 +556,12 @@
 						<p id="con75" class="contestant">Utsav Joshi</p>
 					</div>
 
-					<div class="col-md-2" id="cond78">
-						<p id="con78" class="contestant">Vanz Aromo</p>
+					<div class="col-md-2" id="cond38">
+						<p id="con38" class="contestant">Legit Shawn</p>
 					</div>
 
-					<div class="col-md-2" id="cond77">
-						<p id="con77" class="contestant">xTrixB</p>
+					<div class="col-md-2" id="cond37">
+						<p id="con37" class="contestant">lethalcookie</p>
 					</div>
 
 				</div>
@@ -570,18 +571,6 @@
 			<!-- ELEVENTH ROW -->
 			<div class="container-two" id="elthrow">
 				<div class="col-md-12" id="elthrow">
-
-					<div class="col-md-2" id="cond62">
-						<p id="con62" class="contestant">Self Generator HD</p>
-					</div>
-
-					<div class="col-md-2" id="cond61">
-						<p id="con61" class="contestant">serena is kawaii</p>
-					</div>
-
-					<div class="col-md-2" id="cond64">
-						<p id="con64" class="contestant">SkiddMark</p>
-					</div>
 
 					<div class="col-md-2" id="cond63">
 						<p id="con63" class="contestant">SmellyBrick</p>
@@ -594,6 +583,19 @@
 					<div class="col-md-2" id="cond65">
 						<p id="con65" class="contestant">Sven je moedr</p>
 					</div>
+
+					<div class="col-md-2" id="cond92">
+						<p id="con92" class="contestant">Jarrow Sparrow</p>
+					</div>
+
+					<div class="col-md-2" id="cond91">
+						<p id="con91" class="contestant">Jessica Rowe</p>
+					</div>
+
+					<div class="col-md-2" id="cond94">
+						<p id="con94" class="contestant">João Pedro Machado</p>
+					</div>
+
 
 				</div>
 			</div>
@@ -614,16 +616,16 @@
 						<p id="con82" class="contestant">Etai Oscar</p>
 					</div>
 
-					<div class="col-md-2" id="cond81">
-						<p id="con81" class="contestant">Hedi Mohammed</p>
+					<div class="col-md-2" id="cond69">
+						<p id="con69" class="contestant">Utsav Joshi</p>
 					</div>
 
-					<div class="col-md-2" id="cond84">
-						<p id="con84" class="contestant">Jake Jones</p>
+					<div class="col-md-2" id="cond72">
+						<p id="con72" class="contestant">Vanz Aromo</p>
 					</div>
 
-					<div class="col-md-2" id="cond83">
-						<p id="con83" class="contestant">James Feltner</p>
+					<div class="col-md-2" id="cond71">
+						<p id="con71" class="contestant">xTrixB</p>
 					</div>
 
 				</div>
@@ -637,24 +639,24 @@
 						<p id="con68" class="contestant">ThatPuppyLover</p>
 					</div>
 
-					<div class="col-md-2" id="cond67">
-						<p id="con67" class="contestant">TheDBZSquirrel</p>
+					<div class="col-md-2" id="cond83">
+						<p id="con83" class="contestant">James Feltner</p>
 					</div>
 
-					<div class="col-md-2" id="cond70">
-						<p id="con70" class="contestant">Upam Sakib</p>
+					<div class="col-md-2" id="cond95">
+						<p id="con95" class="contestant">Kyle Ulrich</p>
 					</div>
 
-					<div class="col-md-2" id="cond69">
-						<p id="con69" class="contestant">Utsav Joshi</p>
+					<div class="col-md-2" id="cond99">
+						<p id="con99" class="contestant">Tara Mingus</p>
 					</div>
 
-					<div class="col-md-2" id="cond72">
-						<p id="con72" class="contestant">Vanz Aromo</p>
+					<div class="col-md-2" id="cond102">
+						<p id="con102" class="contestant">Yassin Tahri</p>
 					</div>
 
-					<div class="col-md-2" id="cond71">
-						<p id="con71" class="contestant">xTrixB</p>
+					<div class="col-md-2" id="cond101">
+						<p id="con101" class="contestant">James Feltner</p>
 					</div>
 
 				</div>
@@ -691,21 +693,9 @@
 				</div>
 			</div>
 
-		<!-- SIXTEENTH ROW -->
+		<!-- SEVENTEENTH ROW -->
 			<div class="container-two" id="sixtrow">
 				<div class="col-md-12" id="sixtrow">
-
-					<div class="col-md-2" id="cond92">
-						<p id="con92" class="contestant">Jarrow Sparrow</p>
-					</div>
-
-					<div class="col-md-2" id="cond91">
-						<p id="con91" class="contestant">Jessica Rowe</p>
-					</div>
-
-					<div class="col-md-2" id="cond94">
-						<p id="con94" class="contestant">João Pedro Machado</p>
-					</div>
 
 					<div class="col-md-2" id="cond93">
 						<p id="con93" class="contestant">João Pedro Machado</p>
@@ -715,14 +705,28 @@
 						<p id="con96" class="contestant">Josh Campbell</p>
 					</div>
 
-					<div class="col-md-2" id="cond95">
-						<p id="con95" class="contestant">Kyle Ulrich</p>
+
+					<div class="col-md-2" id="cond67">
+						<p id="con67" class="contestant">TheDBZSquirrel</p>
+					</div>
+
+					<div class="col-md-2" id="cond70">
+						<p id="con70" class="contestant">Upam Sakib</p>
+					</div>
+
+					<div class="col-md-2" id="cond81">
+						<p id="con81" class="contestant">Hedi Mohammed</p>
+					</div>
+
+					<div class="col-md-2" id="cond84">
+						<p id="con84" class="contestant">Jake Jones</p>
 					</div>
 
 				</div>
 			</div>
 
-		<!-- SEVENTEENTH ROW -->
+
+		<!-- SIXTEENTH ROW -->
 			<div class="container-two" id="sixtrow">
 				<div class="col-md-12" id="sixtrow">
 
@@ -738,21 +742,20 @@
 						<p id="con100" class="contestant">Shawn Lovejoy</p>
 					</div>
 
-					<div class="col-md-2" id="cond99">
-						<p id="con99" class="contestant">Tara Mingus</p>
+					<div class="col-md-2" id="cond51">
+						<p id="con51" class="contestant">Rafael Kovač</p>
 					</div>
 
-					<div class="col-md-2" id="cond102">
-						<p id="con102" class="contestant">Yassin Tahri</p>
+					<div class="col-md-2" id="cond54">
+						<p id="con54" class="contestant">Raiken</p>
 					</div>
 
-					<div class="col-md-2" id="cond101">
-						<p id="con101" class="contestant">James Feltner</p>
+					<div class="col-md-2" id="cond53">
+						<p id="con53" class="contestant">RedWolf Gaming</p>
 					</div>
 
 				</div>
 			</div>
-
 
 
 
