@@ -74,9 +74,9 @@ p, input, textarea{
 }
 
 .btn-primary:hover{
-	background: #444;
+	background: #333;
 	color: #fff;
-	border-color: #444;
+	border-color: #333;
 }
 
 .landing-description{
@@ -373,16 +373,12 @@ iframe{
 
 
 @media screen and (max-width: 868px){
-	.nav{
-		display: none;
-	}
-
 	.includesubs{
 		display: none;
 	}
 
 	.paral{
-		background: url('img/forest-bg.jpg');
+		background: url('img/forest-bg-2.jpg');
 	}
 }
 
@@ -410,7 +406,6 @@ iframe{
 	top: 0;
 	right: -300px;
 	position: fixed;
-	z-index: 100;
 	text-align: center;
 	transition: right 0.4s;
 }

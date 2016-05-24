@@ -18,6 +18,8 @@
 
 	<!-- Load jQuery -->
 	<script src="js/jquery-1.11.2.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="js/smooth-scroll.js"></script>
 	
 	<!-- Set Title Logo -->
 	<link rel="shortcut icon" href="css/img/diamond.png" />
@@ -80,25 +82,25 @@
 	<div class="upper-bg home home-fullscreen paral" id="home">
 
 		<div class="col-md-12">
-			<a href="" class="menu-toggle" id="nav-expander" style=""><i class="fa fa-bars"></i></a>
+			<a href="" class="menu-toggle" id="nav-expander" style="color: #fff;"><i class="fa fa-bars"></i></a>
 		</div>
 		<!-- Offsite navigation -->
-		<nav class="menu" style="z-index: 1001;">
+		<nav class="menu" style="z-index: 100001;">
 			<a href="#" class="close"><i class="fa fa-close"></i></a>
 			<br />
 			<h3>Site Map</h3>
 			<ul class="nav">
 				<li><a data-scroll href="#home">Home</a></li>
-				<li><a data-scroll href="#gallery">Newest Videos</a></li>
-				<li><a data-scroll href="#contact">Social Media</a></li>
-				<li><a href="http://www.savedin1080p.com/forum-site/">Forums</a></li>
+				<li><a data-scroll href="#second-half">Newest Videos</a></li>
+				<li><a data-scroll href="#giveaway">Social Media</a></li>
+				<li><a href="http://www.savedin1080p.com/forum-site" target="_blank">Forums</a></li>
 			</ul>
 		</nav>
 
 		<!-- BEGIN UPPER BG LANDING HEADER -->
 		<div class="container">
 			<div class="header-info">
-					<h1 class="landing-header" style="color: #fff;"><!--<span id="wss"></span>-->Savedin<span style="color: #444">1080p</span></h1>
+					<h1 class="landing-header" style="color: #fff;"><!--<span id="wss"></span>-->Savedin<span style="color: #fff">1080p</span></h1>
 					<p style="font-size: 25px; font-family: 'Slabo 27px', sans-serif; padding-bottom: 20px;"><span id="wss"></span></p>
 					<script>wss_elem = document.getElementById("wss"); wssSlide();</script>
 					<a data-scroll href="#second-half" class="btn btn-primary" target="_blank">Newest Video</a>
@@ -210,9 +212,7 @@
 	</footer>
 	<!-- END FOOTER -->
 
-	<script type="text/javascript" src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/app.js"></script>
-	<script type="text/javascript" src="js/smooth-scroll.js"></script>
 
 </body>
 </html>
