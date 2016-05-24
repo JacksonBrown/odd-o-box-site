@@ -12,13 +12,13 @@
 		</div>
 		<span id="username" style="display: none;">Loading..</span>
 		<br>
-		<div class="col-md-6">
-		<i class="fa fa-youtube" style="padding: 10px; font-size: 60px;"></i><h2 class="count_yt" style="font-size: 60px; margin-right: 20px;"></h2>
+		<div class="col-md-12">
+		<i class="fa fa-youtube" style="padding: 10px; font-size: 60px; color: #333;"></i><h2 class="count_yt" style="font-size: 60px; margin-right: 20px; color: #333;"></h2>
 		<h2 class="count_yt" style="display: none;">...</h2>
 		</div>
 
-		<div id="col-md-6">
-		<i class="fa fa-play" style="padding: 10px; font-size: 60px;"></i><h2 class="count_view normalize" style="font-size: 60px;">...</h2><br>
+		<div id="col-md-6" style="display: none;">
+		<i class="fa fa-play" style="padding: 10px; font-size: 60px; display: none;"></i><h2 class="count_view normalize" style="font-size: 60px;">...</h2><br>
 		</div>
 		<span class="milestones" id="milestoneBox" style="display: none;">
 			<br>You are just <h2 class="milestone_away">...</h2>	subscribers away from <h2 class="milestone_target">..wait..</h2>!

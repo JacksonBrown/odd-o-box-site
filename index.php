@@ -27,7 +27,7 @@
 		var wss_i = 0;
 		var wss_array = [
 				"Please have patience, as this site us under construction! We will be finished soon.",
-				"Hey, I'm a Youtuber who likes to make let's plays and commentaries with my friends.",
+				"Hey, I'm a Youtuber who likes to make let's plays and commentaries!",
 				"I also like talking to people on Omegle and recording it." ,
 				"Giveaways are another thing I like to do; next one is at 1000 subs."];
 		var wss_elem;
@@ -98,14 +98,9 @@
 		<!-- BEGIN UPPER BG LANDING HEADER -->
 		<div class="container">
 			<div class="header-info">
-					<h1 class="landing-header" style="color: #444;"><!--<span id="wss"></span>-->Savedin<span style="color: #888">1080p</span></h1>
-					<p style="color: #888; font-size: 25px; font-family: 'Slabo 27px', sans-serif; padding-bottom: 20px;"><span id="wss"></span></p>
+					<h1 class="landing-header" style="color: #fff;"><!--<span id="wss"></span>-->Savedin<span style="color: #444">1080p</span></h1>
+					<p style="font-size: 25px; font-family: 'Slabo 27px', sans-serif; padding-bottom: 20px;"><span id="wss"></span></p>
 					<script>wss_elem = document.getElementById("wss"); wssSlide();</script>
-					<div class="includesubs">
-						<?php
-							include 'subcount.php';
-						?>
-					</div>
 					<a data-scroll href="#second-half" class="btn btn-primary" target="_blank">Newest Video</a>
 			</div>
 		</div>

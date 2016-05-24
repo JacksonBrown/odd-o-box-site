@@ -30,7 +30,7 @@ p, input, textarea{
 }
 
 .paral{
-	background: url('img/forest-bg.jpg') repeat fixed 100%;
+	background: url('img/forest-bg-2.jpg') repeat fixed 100%;
 }
 
 .mask{
@@ -67,8 +67,8 @@ p, input, textarea{
 	background: #1E6EB3;
 	*/
 	background: none;
-	border: 2px solid #444;
-	color: #444;
+	border: 2px solid #fff;
+	color: #fff;
 	font-family: 'Montserrat', sans-serif;
 	transition: 0.4s;
 }
