@@ -7,8 +7,8 @@
 
 	<!-- Load fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 
 	<!-- Load css styles -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -100,8 +100,8 @@
 		<!-- BEGIN UPPER BG LANDING HEADER -->
 		<div class="container">
 			<div class="header-info">
-					<h1 class="landing-header" style="color: #fff;"><!--<span id="wss"></span>-->Savedin<span style="color: #fff">1080p</span></h1>
-					<p style="font-size: 25px; font-family: 'Slabo 27px', sans-serif; padding-bottom: 20px;"><span id="wss"></span></p>
+					<h1 class="landing-header" style="color: #fff;"><!--<span id="wss"></span>-->Savedin<span style="color: #1E6EB3">1080p</span></h1>
+					<p style="font-size: 25px; font-family: 'Roboto', sans-serif; padding-bottom: 20px;"><span id="wss"></span></p>
 					<script>wss_elem = document.getElementById("wss"); wssSlide();</script>
 					<a data-scroll href="#second-half" class="btn btn-primary" target="_blank">Newest Video</a>
 			</div>
